@@ -1,5 +1,4 @@
 <img width="960" height="540" alt="DATS 6202 FINAL PRESENTATION" src="https://github.com/user-attachments/assets/57c30bdd-0eb4-4e8e-acf7-5818d7cefc0d" />
-<img width="960" height="540" alt="DATS 6202 FINAL PRESENTATION" src="https://github.com/user-attachments/assets/57c30bdd-0eb4-4e8e-acf7-5818d7cefc0d" />
 <img width="960" height="540" alt="DATS 6202 FINAL PRESENTATION-2" src="https://github.com/user-attachments/assets/9d39f32e-ebe6-488f-8eb9-02b3c271a22a" />
 <img width="960" height="540" alt="DATS 6202 FINAL PRESENTATION-3" src="https://github.com/user-attachments/assets/4c288698-90bb-4663-bd0f-76c0ee6416e8" />
 <img width="960" height="540" alt="DATS 6202 FINAL PRESENTATION-4" src="https://github.com/user-attachments/assets/670e2a2b-1cfe-4828-bed9-a154fa612b78" />
